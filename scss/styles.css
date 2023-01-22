@@ -1,0 +1,43 @@
+body header {
+  padding: 32px 109px;
+}
+body header .header__container {
+  display: flex;
+}
+body header .header__container nav {
+  margin-left: 360px;
+  margin-right: 32px;
+}
+body header .header__container nav .header__nav {
+  display: flex;
+  gap: 26px;
+  list-style-type: none;
+}
+body header .header__container nav .header__nav li {
+  color: #121212;
+}
+body header .header__container .button__app {
+  padding: 19px 25px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  color: #121212;
+  background: #ffffff;
+  border: 1px solid #ededed;
+  box-shadow: 0px 2px 6px rgba(16, 16, 16, 0.04);
+  border-radius: 12px;
+  text-decoration: none;
+}
+body header .header__container .button__registr {
+  background: #ff5634;
+  border: 1px solid #ff5634;
+  border-radius: 12px;
+  padding: 19px 25px;
+  margin-left: 18px;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+}/*# sourceMappingURL=styles.css.map */
